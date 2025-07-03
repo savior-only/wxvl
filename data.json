@@ -15759,5 +15759,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519515&idx=1&sn=f30efcb700f7338573925ec983993cec": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=1&sn=c11acae8f7897f7fa528977c559d8c05": "Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096366&idx=2&sn=0bc84ccadfed7c9c2ab6818255f637c7": "IBM WebSphere Application Server 允许远程执行代码漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486422&idx=1&sn=1950ae508c495b4f902accb605b1908e": "从0到1大模型MCP自动化漏洞挖掘实践"
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486422&idx=1&sn=1950ae508c495b4f902accb605b1908e": "从0到1大模型MCP自动化漏洞挖掘实践",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503443&idx=1&sn=ac58ea5dade899a4310c5f8e8bdcaf76": "【成功复现】WinRAR目录遍历漏洞(CVE-2025-6218)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490353&idx=1&sn=c5470fd58355538b2dbea6a82e14b61a": "【高危漏洞预警】sudo < 1.9.17p1 host&chroot本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712371&idx=1&sn=7f8436b06ea91d58fe0d1e3ca12933f2": "CVE-2025-32462&CVE-2025-32463",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487449&idx=2&sn=dcd17b82a2b767da4a0245d2549452fc": "如何在日常渗透中实现通杀漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486896&idx=1&sn=43defdb17bf801bce12e5cc72250945f": "10 米内就能窃听你的耳机！知名音频芯片曝漏洞，索尼、Bose 等大牌耳机受影响"
 }
