@@ -15788,5 +15788,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523425&idx=1&sn=d86d65a64846ff68a79a294116423c60": "CISA 提醒注意 Microsens 中的多个严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NTY4OTM3Nw==&mid=2247484003&idx=1&sn=6ca85c68883c94d0e914bf8d9fd9fe5f": "夏日狂欢 | 限时漏洞翻倍悬赏活动",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501261&idx=2&sn=b4d3e1f7d10b28534202f323f0507ccc": "【漏洞通告】IBM WebSphere 远程代码执行漏洞(CVE-2025-36038)",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523440&idx=1&sn=82defa4f95ee18fec7fd809f7f565f7a": "思科 Unified CM 中存在满分漏洞，可用于获得root权限"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523440&idx=1&sn=82defa4f95ee18fec7fd809f7f565f7a": "思科 Unified CM 中存在满分漏洞，可用于获得root权限",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531579&idx=1&sn=8aeb22f983426b00e76b8eb31fada17a": "我如何通过 NGINX Off-By-Slash 配置错误获得远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492743&idx=1&sn=6d15d49d30e47caad5876dd8ce93f3cb": "Google紧急修复Chrome零日漏洞（CVE-2025-6554）"
 }
