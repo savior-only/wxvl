@@ -15801,5 +15801,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247492633&idx=1&sn=05be5fe8eaa8c8ef60c074abf2f1e958": "伪装成漏洞检测工具样本分析",
     "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641383&idx=1&sn=3b2c19de6851d8fb8cfd37d6abda9929": "在看 | 周报：南阳某机械有限公司网站遭黑客攻击；742款打印机被曝存在安全漏洞；虚假WPS安装程序暗藏远控木马",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=2&sn=7b7840a855c25cff444583b7d7681c6f": "FreeBuf周报 | Linux高危Sudo漏洞可提权至root并绕过限制；Lucee应用服务器曝高危漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486277&idx=2&sn=888640822418c3ba152b62a62e185814": "742款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士、理光等品牌"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486277&idx=2&sn=888640822418c3ba152b62a62e185814": "742款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士、理光等品牌",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507548&idx=1&sn=85978c0c88e548f7680254b6e0af985b": "【一周安全资讯0705】三部门发文：进一步加强电子病历信息使用管理；谷歌紧急修复已被利用的Chrome高危零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDc0MTc5Mw==&mid=2247483878&idx=1&sn=161132aec1e0f816d558679852c2866c": "Notepad++提权漏洞POC及一键部署环境【CVE-2025-49144】",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500923&idx=1&sn=7eb27e3f909442571fa32be3a1dab150": "【2025护网漏洞POC速存】吃苕皮喝挪瓦，HW轻松拿捏"
 }
