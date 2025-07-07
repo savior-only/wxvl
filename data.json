@@ -15820,5 +15820,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531708&idx=2&sn=4a6933ad20a93e82115716b907fedd14": "利用 DLL PEB 模块结构操作的代码执行∕注入技术",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611281&idx=2&sn=0b13a7fa48b99eb7891098356636b07b": "联想Windows目录可写文件漏洞可隐秘绕过AppLocker防护",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492423&idx=1&sn=11c5751ce8c00ae8ea6046da3c250e20": "QVD-2025-23408：契约锁电子签章系统未授权RCE漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900878&idx=1&sn=0628d7321b119b7ef88e12c8bf037f86": "深度剖析CVE-2025-49596：一次网页浏览，如何让你的AI开发环境彻底沦陷？"
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900878&idx=1&sn=0628d7321b119b7ef88e12c8bf037f86": "深度剖析CVE-2025-49596：一次网页浏览，如何让你的AI开发环境彻底沦陷？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484336&idx=1&sn=a0934eb54b52c4ab1d0f4be169d78a19": "25HVV最新0day更新，各单位自查...",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=2&sn=0db1104436ef7e1f9d8ce2148c89f9f2": "Next.js 允许攻击者通过缓存中毒触发 DoS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494179&idx=1&sn=1997151095977260707894ec476cabe6": "严重Sudo漏洞使主流Linux发行版面临本地提权攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550746&idx=1&sn=7e546ceb9adf9b333ab5ef6388d86387": "EDUSRC | 证书站小程序漏洞挖掘思路及方法",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546963&idx=2&sn=f6b0b39f61c938cbe033753539c56b22": "紧急！本周【护网】必看3大高危漏洞：Sudo提权漏洞，你中招了吗？",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484501&idx=1&sn=d382e52bf88d07f6596b7426acf7f730": "第128篇：Struts2全版本漏洞检测工具19.68版本更新"
 }
