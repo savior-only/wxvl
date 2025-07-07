@@ -15833,5 +15833,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070525&idx=1&sn=7b6337e89711c9e9f413dd1cb303bd76": "【安全圈】Linux“sudo”严重漏洞：任何用户均可接管系统",
     "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492233&idx=1&sn=6972c3d85da8e41bb31f6f59be71350b": "Prometheus 未授权访问漏洞处理",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491712&idx=1&sn=e2d5206def5474dacc15a2dd6c6969cc": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月04~06日",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497824&idx=1&sn=d05e05ef9f38616d66fc34d888663358": "作为一名不具备天赋的普通人，如何在漏洞赏金计划中取得成功"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497824&idx=1&sn=d05e05ef9f38616d66fc34d888663358": "作为一名不具备天赋的普通人，如何在漏洞赏金计划中取得成功",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487547&idx=1&sn=33033a7415fe3aabffa5f5711e51030a": "PHP 漏洞 CVE-2025-1735（SQLi∕崩溃）"
 }
