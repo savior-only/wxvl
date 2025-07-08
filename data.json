@@ -15854,5 +15854,13 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596945&idx=3&sn=ce5a42d0da3011db31e51a6b4c67cb24": "Redis曝高危漏洞，认证客户端可致服务中断",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=1&sn=bdeb8779451111167a89a91cea7654df": "Redis被曝三大严重安全漏洞，PoC代码已公开",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490456&idx=1&sn=d62d1062414385b7f829b9ad9c765da1": "【7∕8特辑】一线最新漏洞情报来袭",
-    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492498&idx=1&sn=3ea95ef3ff9e6b9f97bfcd9b2a1a756b": "用友NC最新SQL注入 | CNVD-2025-06710漏洞分析"
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492498&idx=1&sn=3ea95ef3ff9e6b9f97bfcd9b2a1a756b": "用友NC最新SQL注入 | CNVD-2025-06710漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Mzg4OTIyMA==&mid=2247485898&idx=1&sn=6159060cdb84760163b161be61b31d42": "【工具推荐】0Day挖掘机-“Rotor Goddess”",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486429&idx=1&sn=1122596685f8cc2619332467ebe13ffc": "Unauthorized-Vul【最全未授权访问漏洞批量检测工具】",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484942&idx=1&sn=baf5d858e68af91f045b6c4cc52c65b5": "Linux单服务器漏洞处置SOP框架——最小化应用系统运行环境安全风险",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137680&idx=2&sn=44072684925a2b63f6aade28880606fd": "最高奖金可达15万元！2025年人工智能大模型产品漏洞众测活动启动；美国防部因网络安全隐患切断部分NOAA卫星数据连接 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324586&idx=1&sn=edaf868c5c5e19239d5ddd9a4a9e7b99": "Linux启动漏洞可绕过现代Linux系统的安全启动保护",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=3&sn=3c9b51451f5763c003d384a08f8ec50e": "【漏洞通告】Redis 未认证连接导致拒绝服务漏洞 (CVE-2025-48367)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497828&idx=1&sn=3edecf58ac99722cc6db88b124495ed3": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=2&sn=71bebd5f56bafd09a7b0d3e2b1d3c056": "上周关注度较高的产品安全漏洞(20250630-20250706)"
 }
