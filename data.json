@@ -15835,5 +15835,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491712&idx=1&sn=e2d5206def5474dacc15a2dd6c6969cc": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月04~06日",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497824&idx=1&sn=d05e05ef9f38616d66fc34d888663358": "作为一名不具备天赋的普通人，如何在漏洞赏金计划中取得成功",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487547&idx=1&sn=33033a7415fe3aabffa5f5711e51030a": "PHP 漏洞 CVE-2025-1735（SQLi∕崩溃）",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500084&idx=1&sn=38b270f2be6c4a876c14b613950e4899": "CNVD漏洞周报2025年第25期"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500084&idx=1&sn=38b270f2be6c4a876c14b613950e4899": "CNVD漏洞周报2025年第25期",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492761&idx=1&sn=74dceba6e96dc5542167e58b17b22472": "分享Jeecg-boot中的Nday漏洞汇总打法",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492070&idx=1&sn=a76b100b910f393235352f1b7824dc12": "汉王EFaceGo upload.do 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500929&idx=1&sn=dee2bdaa182554616ea85ceef4775672": "汉王e脸通综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489168&idx=1&sn=931ea8f0161289c6d7003a69fb820de6": "Linux “sudo”关键漏洞允许任何用户控制系统",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503563&idx=1&sn=09169a0ba263b129a115d0fa708b0d02": "【已复现】Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)安全风险通告"
 }
