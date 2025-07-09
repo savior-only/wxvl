@@ -15862,5 +15862,7 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324586&idx=1&sn=edaf868c5c5e19239d5ddd9a4a9e7b99": "Linux启动漏洞可绕过现代Linux系统的安全启动保护",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=3&sn=3c9b51451f5763c003d384a08f8ec50e": "【漏洞通告】Redis 未认证连接导致拒绝服务漏洞 (CVE-2025-48367)",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497828&idx=1&sn=3edecf58ac99722cc6db88b124495ed3": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=2&sn=71bebd5f56bafd09a7b0d3e2b1d3c056": "上周关注度较高的产品安全漏洞(20250630-20250706)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=2&sn=71bebd5f56bafd09a7b0d3e2b1d3c056": "上周关注度较高的产品安全漏洞(20250630-20250706)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488244&idx=1&sn=01a64335c638438a54a0ead3790c9789": "HW（2025-7-8）护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484705&idx=1&sn=49fad1f3e7c910efc380ae3f1895f0fc": "漏洞预警 | Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)"
 }
