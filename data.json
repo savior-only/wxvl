@@ -15870,5 +15870,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492081&idx=1&sn=894a554f87721dca1ce2c4cbcb622ae2": "信呼OA uploawAction.php SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515396&idx=1&sn=cd3c577b9492d4197fee6394c426a21a": "QaFuzz：关于测试域名的漏洞挖掘工具",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490389&idx=1&sn=a4b381c2318fb8f2925676474ebc9324": "【高危漏洞预警】Redis hyperloglog远程代码执行漏洞CVE-2025-32023",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596966&idx=2&sn=e31bcd83bed515a47986bdc1cb110940": "CISA 将谷歌 Chromium V8 漏洞纳入必修补名单，7月23日前须完成修复"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596966&idx=2&sn=e31bcd83bed515a47986bdc1cb110940": "CISA 将谷歌 Chromium V8 漏洞纳入必修补名单，7月23日前须完成修复",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245296&idx=1&sn=9a5b71c761dc2b049f6fa30dde2ff1cc": "专题·人工智能安全 | 大型推理模型的安全性：挑战、漏洞与未来",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=3&sn=1221ce55fb0740963a6b753ce6508465": "漏洞预警 | WebOne劳动力与考勤管理软件任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=2&sn=b13a0fe888ba0def887c35071df5aa2b": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493555&idx=1&sn=4df91360f16f4d814717187b7abce6f8": "蜜罐捕获一个自动化漏洞攻击的机器人程序",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=1&sn=6d82b7ddc4c8cc451bc8ab54f4420e78": "【安全圈】Zoom Windows 客户端曝出中危漏洞，可能被用于发起拒绝服务（DoS）攻击"
 }
