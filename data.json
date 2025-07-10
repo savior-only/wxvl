@@ -15900,5 +15900,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523530&idx=2&sn=e19607b9a1bbf6bc70c902e40f0de1d3": "Fortinet 修复FortiWeb 中的严重SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjIxNDQyMQ==&mid=2247498199&idx=1&sn=f4175317ea154b19d2967a61ba9f6778": "【已复现】泛微e-cology 前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490153&idx=1&sn=f4e566d0f34c146c4e9d3b9d348e2812": "某朋克风NFT数字藏品存在前台文件上传漏洞【0day】",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486256&idx=1&sn=e695f0ac5253981b19b466c133364824": "【0day挖掘】怎么用“Rotor Goddess”轻松爆出过万资产的漏洞，以及其他小洞的出货方式与流程"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486256&idx=1&sn=e695f0ac5253981b19b466c133364824": "【0day挖掘】怎么用“Rotor Goddess”轻松爆出过万资产的漏洞，以及其他小洞的出货方式与流程",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484909&idx=1&sn=f7c17bd3c58d6e06afe0eee7178e533f": "【复现】泛微Ecology前台SQL注入漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNDg2MDQ4Ng==&mid=2247487348&idx=1&sn=c2250c2542642b6f2e35d45cd6509d0d": "假“漏洞利用”真木马：一次CVE-2025-32023复现中的GitHub惊魂",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTI5NTgyMw==&mid=2247511266&idx=1&sn=b3ca1d6fb81cf3af35f5b93cc05e560e": "某制造业公司：30 分钟速通 2025 高危漏洞排查 + 推修实战",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506956&idx=1&sn=0eabbf9ec218e72492a0ffd882042cce": "你能获得的最简单的漏洞赏金（2025）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500813&idx=1&sn=6c8d8bd1fa20374d7dc2b54b56bc22ab": "西门子、施耐德、菲尼克斯电气修复漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245407&idx=2&sn=13edbb43d857ccee5d8e4bb9ad8106be": "CNNVD | 关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908542&idx=1&sn=83623032b333f88591df7b0a6e59b3b9": "十年博弈 - ViewState RCE的前世今生",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463249&idx=1&sn=37c15dcc38445d804dd90e07aa94db96": "CNNVD关于微软多个安全漏洞的通报"
 }
