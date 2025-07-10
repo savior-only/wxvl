@@ -15917,5 +15917,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539547&idx=2&sn=4c734f8837fb9bb5024190ecd4460790": "资产维度分类之全球操作系统漏洞大盘点",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503591&idx=1&sn=d2d745e2f4f838c527281205db85b1b4": "【已复现】泛微E-cology9 前台SQL注入漏洞(QVD-2025-26680)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492767&idx=1&sn=f859ddce15279eae9d072ed1a9357c2a": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487556&idx=1&sn=d4ee665f5777a19061830dbb847479f5": "Git 远程代码执行漏洞预警(CVE-2025-48384)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487556&idx=1&sn=d4ee665f5777a19061830dbb847479f5": "Git 远程代码执行漏洞预警(CVE-2025-48384)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488444&idx=1&sn=5b0a8866a42e54f258089ecfd7d729f3": "项目推荐 | WebGoat8.X代码审计大全，全文均可复现，适合刚学完JAVASE准备开始代码审计的师傅"
 }
