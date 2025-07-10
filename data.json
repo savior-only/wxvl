@@ -15918,5 +15918,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503591&idx=1&sn=d2d745e2f4f838c527281205db85b1b4": "【已复现】泛微E-cology9 前台SQL注入漏洞(QVD-2025-26680)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492767&idx=1&sn=f859ddce15279eae9d072ed1a9357c2a": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487556&idx=1&sn=d4ee665f5777a19061830dbb847479f5": "Git 远程代码执行漏洞预警(CVE-2025-48384)",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488444&idx=1&sn=5b0a8866a42e54f258089ecfd7d729f3": "项目推荐 | WebGoat8.X代码审计大全，全文均可复现，适合刚学完JAVASE准备开始代码审计的师傅"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488444&idx=1&sn=5b0a8866a42e54f258089ecfd7d729f3": "项目推荐 | WebGoat8.X代码审计大全，全文均可复现，适合刚学完JAVASE准备开始代码审计的师傅",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507834&idx=1&sn=cb2a5fffe56db189abdb84f8cf483df4": "酌情处置 | Redis hyperloglog 命令远程代码执行漏洞利用条件较多",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494208&idx=1&sn=101fa901a50f4681cd39776d41edc29d": "【已复现】泛微 E-cology9 未授权SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTQ0OTYxOQ==&mid=2247484091&idx=1&sn=b77edc5018db3aeebe5d057fe6020255": "【0day】紧急提醒！你的Telegram私密群组∕频道可能被未授权访问！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=2&sn=842aa35155a1456c7ffced77317fd433": "【已复现】Windows Update Service 本地权限提升漏洞(CVE-2025-48799)"
 }
