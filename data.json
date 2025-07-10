@@ -15897,5 +15897,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=7&sn=88d1aad32efce95a42eff434157efe29": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492090&idx=1&sn=d3730d112f227a6e2220302b76ba7ea4": "金盘移动图书馆图书管理系统 tabShow 信息泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=1&sn=fa39dab26fa7889aa2d78f6bfc2cc882": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523530&idx=2&sn=e19607b9a1bbf6bc70c902e40f0de1d3": "Fortinet 修复FortiWeb 中的严重SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523530&idx=2&sn=e19607b9a1bbf6bc70c902e40f0de1d3": "Fortinet 修复FortiWeb 中的严重SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjIxNDQyMQ==&mid=2247498199&idx=1&sn=f4175317ea154b19d2967a61ba9f6778": "【已复现】泛微e-cology 前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490153&idx=1&sn=f4e566d0f34c146c4e9d3b9d348e2812": "某朋克风NFT数字藏品存在前台文件上传漏洞【0day】",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486256&idx=1&sn=e695f0ac5253981b19b466c133364824": "【0day挖掘】怎么用“Rotor Goddess”轻松爆出过万资产的漏洞，以及其他小洞的出货方式与流程"
 }
