@@ -15960,5 +15960,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526752&idx=1&sn=323ade965e504a92cfa97f8cd939be3b": "契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484933&idx=1&sn=f500975fd1a9a25ea4573fcea6363636": "【0day挖掘】Rotor Goddess 轻松爆出过万资产漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173760&idx=2&sn=35a632ac09e1d4c59846594fe7a0be16": "CNNVD通报微软多个安全漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788781&idx=1&sn=148a363ff5ef9b1e0e3fddf8321a100e": "数十亿手机可被监听，eSIM漏洞牵动全球通信生态"
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788781&idx=1&sn=148a363ff5ef9b1e0e3fddf8321a100e": "数十亿手机可被监听，eSIM漏洞牵动全球通信生态",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494220&idx=1&sn=472c1cff94843a229b6f809057d46bb9": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)"
 }
