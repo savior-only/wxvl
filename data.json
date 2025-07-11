@@ -15969,5 +15969,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=2&sn=04a84283c9d2100a95736c652525dcd8": "开源项目mcp-remote 中存在严重漏洞可导致RCE",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486475&idx=1&sn=47fc16336a3d0170e93bf669cd202a8c": "Struts2VulsScanTools【Struts2全版本漏洞检测工具】",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547154&idx=1&sn=ed18dc2a48d5baf054db84d47279fb1b": "【新！】CNNVD通报微软多个安全漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494222&idx=1&sn=7cce5793717ad1b863f654e0fdb795ed": "【已复现】契约锁电子签章系统远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494222&idx=1&sn=7cce5793717ad1b863f654e0fdb795ed": "【已复现】契约锁电子签章系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507841&idx=1&sn=cfa2847a732b4051019158b1f166e27f": "泛微E-cology9 前台SQL注入漏洞"
 }
