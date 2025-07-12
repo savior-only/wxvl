@@ -15979,5 +15979,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486522&idx=1&sn=a01569e808d3475b13fe5f2b04268a76": "Struts2VulsScanTools【Struts2全版本漏洞检测工具】",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=1&sn=c3170ccca7509e132f790f5050e51312": "半导体巨头AMD新型漏洞影响多款CPU，计时攻击可导致数据泄露",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492110&idx=1&sn=5c85ce32f439145754b97e4e8aaafbc6": "锐捷EWEB路由器 ipam.php 任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491912&idx=1&sn=17f6f3f0b90b29e022a81ea8c8b28cdb": "如何在日常渗透中实现通杀漏洞挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491912&idx=1&sn=17f6f3f0b90b29e022a81ea8c8b28cdb": "如何在日常渗透中实现通杀漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484917&idx=1&sn=af0cf86fe3943f11fba7eb4847c0d2da": "【复现】契约锁文件写入致远程代码执行漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=3&sn=a328e0d32ba8414355872528a04b0823": "Linux内核NFT子系统曝高危\"双重释放\"漏洞可致本地提权"
 }
