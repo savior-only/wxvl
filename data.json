@@ -20421,5 +20421,7 @@
     "https://mp.weixin.qq.com/s/-Q2r9raSwKhD5ST-_iE9cQ": "网络设备通用漏洞挖掘由黑到白",
     "https://mp.weixin.qq.com/s/cjO8jcq1Nm-t2SxWnoRGhw": "【已复现】CVE-2026-31431 Linux内核本地提权漏洞（Copy Fail）",
     "https://mp.weixin.qq.com/s/yChwE7QVLGdrTCSi0-jSNg": "Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc",
-    "https://mp.weixin.qq.com/s/TW7FFvx7SXWsHRrqgY-v4w": "CVE-2026-31431"
+    "https://mp.weixin.qq.com/s/TW7FFvx7SXWsHRrqgY-v4w": "CVE-2026-31431",
+    "https://mp.weixin.qq.com/s/JA5E-ntWCAJfeqdPGdvcSA": "漏洞预警 | Copy Fail本地提权漏洞风险预警 CVE-2026-31431",
+    "https://mp.weixin.qq.com/s/eMCDye1A-LfO6gMsTTvNSQ": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程"
 }
