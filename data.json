@@ -20567,5 +20567,11 @@
     "https://mp.weixin.qq.com/s/w7bK4SaiqCxoRDSAcQTt6A": "【漏洞预警】核弹级提权漏洞 CVE-2026-31431已复现 含Poc",
     "https://mp.weixin.qq.com/s/suyeuaKwQSzS5JtMlo_-Hg": "【漏洞通告】Ollama 未授权内存泄露漏洞(CVE-2026-7482)",
     "https://mp.weixin.qq.com/s/l9R1P96icRMI2EyjCQxsSA": "分析 Mythos：为什么十年检测经验让我觉得漏洞数字没那么可怕",
-    "https://mp.weixin.qq.com/s/Lbr65Cg3EKTCOjRLJjP0lw": "【已复现】Android ADB 认证绕过漏洞(CVE-2026-0073)安全风险通告"
+    "https://mp.weixin.qq.com/s/Lbr65Cg3EKTCOjRLJjP0lw": "【已复现】Android ADB 认证绕过漏洞(CVE-2026-0073)安全风险通告",
+    "https://mp.weixin.qq.com/s/BDVEi3LzN3A32-ofzXWgng": "高危安卓零点击漏洞可远程获取Shell访问权限",
+    "https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w": "Palo Alto 提醒注意严重的 PAN-OS RCE漏洞",
+    "https://mp.weixin.qq.com/s/RG9TeSJXxyUwDFD5nFy2ag": "人工智能重要安全漏洞通报Ollama安全漏洞",
+    "https://mp.weixin.qq.com/s/qbVvalyDCVG1GM01LXZxUw": "MCP+BurpSuite 实现AI漏洞挖掘",
+    "https://mp.weixin.qq.com/s/Mz1h3sZza39OfrZxPbCzDQ": "Progress 提醒注意严重的 MOVEit 自动化认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/dnAi9Gz0i6TlBdaZ2YYQBw": "智能体驱动的漏洞挖掘实践"
 }
