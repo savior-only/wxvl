@@ -20650,5 +20650,11 @@
     "https://mp.weixin.qq.com/s/WCgLSMpo-vfG1wBPOtcFIg": "【风险提示】天融信关于Linux Kernel本地权限提升漏洞Dirty Frag的风险提示",
     "https://mp.weixin.qq.com/s/raoHUAGT9xIZTIwL1vMTHg": "Dirty Frag本地提权漏洞存在9年，Linux 4.11起受影响",
     "https://mp.weixin.qq.com/s/6LzoO1yfUuXARavHpBzRWw": "【安全警报】4个HTTP请求搞定root：cPanel史诗级漏洞殃及150万服务器",
-    "https://mp.weixin.qq.com/s/3-32iS0mEsS3BMsq3K2yZA": "双利用链配合Linux通杀提权0day \"DirtyFrag\""
+    "https://mp.weixin.qq.com/s/3-32iS0mEsS3BMsq3K2yZA": "双利用链配合Linux通杀提权0day \"DirtyFrag\"",
+    "https://mp.weixin.qq.com/s/dO4GnFKYIvG8kcSonTBuZA": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s/tCFASolhwwhPyByjk_sK2w": "全网紧急！Linux Dirty Frag漏洞POC已流出！",
+    "https://mp.weixin.qq.com/s/ryA8VOmNrhdc9VX9AIvgyQ": "【漏洞通告】Linux内核权限提升漏洞（Dirty Frag）",
+    "https://mp.weixin.qq.com/s/OECvdYrKJgjjuZJ639K4gA": "【安全警报】732字节的\"核弹\"：Linux内核Copy Fail漏洞一键Root所有服务器",
+    "https://mp.weixin.qq.com/s/hFRTMcbjYxNwqUe6VjFl9Q": "高危！新一代 “脏管道” 漏洞来袭，几乎所有 Linux 系统秒破 Root",
+    "https://mp.weixin.qq.com/s/e5MqEr-N4_sCFoSZ8LS7zA": "CVE-2026-31431 Copy Fail 通杀版 EXP：动态偏移计算实现任意 ELF 提权"
 }
