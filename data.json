@@ -20741,5 +20741,7 @@
     "https://mp.weixin.qq.com/s/DNft9VVupw1p2e6m4ZZKLA": "常见未授权访问漏洞总结",
     "https://mp.weixin.qq.com/s/yDlveLAva4m2YJ-hL1FTEg": "CNVD漏洞周报2026年第18期",
     "https://mp.weixin.qq.com/s/eb-wgbyPgFwafnOAwYSsUw": "CVE-2026-7458-UserVerificationByPickPlugins-认证绕过漏洞分析报告",
-    "https://mp.weixin.qq.com/s/Y-MeVpGfMNwLZTL8geTnsg": "雷神众测漏洞周报2026.4.27-2026.5.10"
+    "https://mp.weixin.qq.com/s/Y-MeVpGfMNwLZTL8geTnsg": "雷神众测漏洞周报2026.4.27-2026.5.10",
+    "https://mp.weixin.qq.com/s/XB8J58Eh--JnAVefQ7z1jQ": "cPanel高危漏洞可致文件泄露与远程代码执行，数千服务器面临风险",
+    "https://mp.weixin.qq.com/s/FNxwrq5MdzBVTUbWfDgR9A": "Next.js高危漏洞可致SSRF攻击、DoS瘫痪"
 }
