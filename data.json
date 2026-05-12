@@ -20790,5 +20790,7 @@
     "https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g": "PHP SOAP扩展漏洞或致远程代码执行",
     "https://mp.weixin.qq.com/s/fScOkKDIDsdUSyOlYyNkpQ": "Grav CMS 组合拳漏洞| CVE-2026-42613&CVE-2026-42607复现&研究",
     "https://mp.weixin.qq.com/s/MOnAGljdhFGkh7eGBK-Auw": "一款功能强大的Web 漏洞扫描器(11种检测模块)",
-    "https://mp.weixin.qq.com/s/4OWzmOw1oH11TwmlEmq9jw": "首次发现！AI生成零日漏洞利用工具并实施网络攻击"
+    "https://mp.weixin.qq.com/s/4OWzmOw1oH11TwmlEmq9jw": "首次发现！AI生成零日漏洞利用工具并实施网络攻击",
+    "https://mp.weixin.qq.com/s/AKyjmlv4vfperRsGS8njsQ": "360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业",
+    "https://mp.weixin.qq.com/s/A1VK7zrvm93AYwfhl1E1gg": "WAVLINK-WN530HG4 live_api.cgi接口存在远程命令执行漏洞 附POC"
 }
