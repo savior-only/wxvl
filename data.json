@@ -21206,5 +21206,9 @@
     "https://mp.weixin.qq.com/s/d0vSDbnRrU938VURdLc5lw": "Apache StreamPipes曝高危漏洞：攻击者可夺取管理员控制权限",
     "https://mp.weixin.qq.com/s/PbaKQWNFdhKeXnsfWcWSMA": "威胁分子操纵大语言模型实现漏洞利用自动化",
     "https://mp.weixin.qq.com/s/mYOck5OaLUw29JudWY4FHA": "Apache NuttX曝内存损坏漏洞（CVE-2025-48769）",
-    "https://mp.weixin.qq.com/s/vj-RjyoEQw6TEO7yKUxZVw": "实战 XSS 漏洞靶场：50+真实场景 + 附赠万级 XSS Payload 库"
+    "https://mp.weixin.qq.com/s/vj-RjyoEQw6TEO7yKUxZVw": "实战 XSS 漏洞靶场：50+真实场景 + 附赠万级 XSS Payload 库",
+    "https://mp.weixin.qq.com/s/gB0xw_DrfNOI9jf-CgIx7A": "登录框漏洞checklist（一）",
+    "https://mp.weixin.qq.com/s/tuoxUVBGzoCOQVJcLkuhiA": "好靶场存在逻辑漏洞-导致评论区消失且用户无法评论",
+    "https://mp.weixin.qq.com/s/pQ_H9-Qbyl4eYosYgt8ygw": "登录框漏洞checklist（二）",
+    "https://mp.weixin.qq.com/s/yTPehTfk1ufv3RXq6gh1mA": "我用 Claude Code 造了一个代码审计 Skill，它在 20 万行项目中找到了 63 个漏洞"
 }
