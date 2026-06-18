@@ -21283,5 +21283,6 @@
     "https://mp.weixin.qq.com/s/uQ28M_q4MzfmqSF9J0XcAA": "Zyxel 修复 GS1900 交换机中的栈缓冲区溢出漏洞（CVE-2026-7273）",
     "https://mp.weixin.qq.com/s/8DRJdSmNRz_1Rn-VxF8jqQ": "存在漏洞的 PackageKit 使攻击者能够获得 root 权限",
     "https://mp.weixin.qq.com/s/EtfYkJP6a_I7PIou7JBz5g": "微软确认存在 RoguePlanet Defender 零日漏洞，称修复补丁正在开发中",
-    "https://mp.weixin.qq.com/s/Qfro7jebi3jp4hdO3mm74A": "【已复现】漏洞通告 | Linux Kernel net∕sched act_pedit 本地权限提升漏洞(CVE-2026-46331)"
+    "https://mp.weixin.qq.com/s/Qfro7jebi3jp4hdO3mm74A": "【已复现】漏洞通告 | Linux Kernel net∕sched act_pedit 本地权限提升漏洞(CVE-2026-46331)",
+    "https://mp.weixin.qq.com/s/hoQIpeIG7tGKmMWRRwUWbg": "CNNVD | 人工智能重要漏洞通报（2026年第九期）"
 }
