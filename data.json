@@ -21705,5 +21705,11 @@
     "https://mp.weixin.qq.com/s/4w4jlmqlF-4f4JIdOR1yMQ": "新型“Bad Epoll”零日漏洞允许攻击者获取Linux服务器和安卓设备的root权限",
     "https://mp.weixin.qq.com/s/bAfsWIuRhVac2SmgUvxOlA": "7月8日高危CVE漏洞速报",
     "https://mp.weixin.qq.com/s/usom_x30ugOFM9LbiUwBAg": "漏洞通告|Huawei HarmonyOS IPC模块竞争条件漏洞(CVE-2026-41982)",
-    "https://mp.weixin.qq.com/s/hlDVe8sqZANVkhyBrV-g5g": "【热点安全风险】7月8日 |BeyondTrust RS∕PRA修复多项漏洞、Gitea Docker镜像CVE-2026-20896出现探测"
+    "https://mp.weixin.qq.com/s/hlDVe8sqZANVkhyBrV-g5g": "【热点安全风险】7月8日 |BeyondTrust RS∕PRA修复多项漏洞、Gitea Docker镜像CVE-2026-20896出现探测",
+    "https://mp.weixin.qq.com/s/OFokLPFwqsWcVfUZHYH_RQ": "MapTilerTileserver 反射xss漏洞(CVE-2025-44136)",
+    "https://mp.weixin.qq.com/s/yudRSd2hjmEd9TxIoLHKmg": "CNVD 本周漏洞态势研判：零日漏洞占比超八成，政企漏洞事件环比大幅上涨；Microsoft加速采用自研MAI模型，降低对OpenAI依赖| 牛览",
+    "https://mp.weixin.qq.com/s/bAnlw-h1kFtNhYcB3xVohg": "7月社区投稿活动 | 漏洞挖掘∕AI渗透",
+    "https://mp.weixin.qq.com/s/rxFYZyc7tNO2TYz4jQsYPg": "大模型 2025–2026 新CVE 漏洞全景∕技术详情",
+    "https://mp.weixin.qq.com/s/oSNqXiN9cS8V_2xTAPVX-g": "BeyondTrust 远程接入平台四枚高危漏洞全拆解：从认证绕过到\"零信任\"信任崩塌的完整攻击链",
+    "https://mp.weixin.qq.com/s/foMleOiYvmBA-d3hq8ks_g": "大象要一口一口吃：PHP PDO扩展中的NUL字节SQL注入与空指针解引用漏洞"
 }
