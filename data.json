@@ -22131,5 +22131,8 @@
     "https://mp.weixin.qq.com/s/Lk8waN4j9PpRfioLsUHG0Q": "四个间谍集团在一周内使用了同一套Chrome和Windows漏洞利用工具包",
     "https://mp.weixin.qq.com/s/0PF1F4Vtqc1GFj2yO4moxQ": "SAP Kernel曝两枚严重漏洞，最高CVSS 10.0",
     "https://mp.weixin.qq.com/s/SoYXFlCxQ2LtV85rVWfP5g": "Mercusys 热销 4G 路由：从拆机焊 UART 拿 root，到预认证 httpd 栈溢出（CVE-2026-12495）",
-    "https://mp.weixin.qq.com/s/73DyuQaAbc5Ei57E3CqqoQ": "漏洞复现 | 山东启恒信息科技有限公司数智化平台 CommonHandler 存在SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/73DyuQaAbc5Ei57E3CqqoQ": "漏洞复现 | 山东启恒信息科技有限公司数智化平台 CommonHandler 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/vXBX2pqIg8dFgK2pcf8EDA": "山石安全能力中心｜微软2026年9月份漏洞补丁日安全通告",
+    "https://mp.weixin.qq.com/s/fgdiF9PUxAeSMPYSVfABbw": "漏洞扫描智能体 -- vuln-scan-agent",
+    "https://mp.weixin.qq.com/s/DVRp4OrAiQPYxQTBPSCF-Q": "【CVE-2026-82533】DeepSeek Harness高危漏洞让Agent一键突破沙箱限制"
 }
