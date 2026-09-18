@@ -22313,5 +22313,6 @@
     "https://mp.weixin.qq.com/s/T0qJypSuaNL8qjhHrX5Nqw": "搜狗输入法 CVE-2026-51990 全链复现：参数注入 → 无沙箱浏览器 → V8 RCE",
     "https://mp.weixin.qq.com/s/FsKTjuPVwZ5NvDnf7eJFSg": "2026网安周 | 再获权威认可！中孚信息获评CNVD原创漏洞发现贡献单位",
     "https://mp.weixin.qq.com/s/vur3G7YqbIC2P_cN27kXoQ": "(10分) CVE-2026-69865：微软Azure容器仓库鉴权绕过",
-    "https://mp.weixin.qq.com/s/kCNEL8eA7w9miTKTLpeclg": "伪造 Object Header：一次 C++ 解释器类型混淆漏洞利用分析"
+    "https://mp.weixin.qq.com/s/kCNEL8eA7w9miTKTLpeclg": "伪造 Object Header：一次 C++ 解释器类型混淆漏洞利用分析",
+    "https://mp.weixin.qq.com/s/JO3Si2rnltqhfZw22KXWXw": "7-Zip RAR5备用流名碰撞绕过MotW---CVE-2026-58052分析"
 }
