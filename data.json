@@ -22500,5 +22500,7 @@
     "https://mp.weixin.qq.com/s/yZ5RYNW7LX19ijVzG8cKpw": "AI被一条摩斯密码骗走20万美金的那天，另一个AI正在自己挖0day",
     "https://mp.weixin.qq.com/s/8qavYfv5gVIMRBi5uXZSeQ": "【复现】WordPress Comment2Shell零点击存储型XSS可导致RCE漏洞（CVE-2026-93485）",
     "https://mp.weixin.qq.com/s/SCqLj0rWgjGvclRa5Gh25Q": "数智拓远 善治久安 | 第十六届网络安全漏洞分析与风险评估大会在重庆举办",
-    "https://mp.weixin.qq.com/s/3AFwMx2x46GkHV9uckaM4A": "同一套坏习惯：QNAP CGI 预认证 RCE 到容器逃逸（CVE-2026-34007∕34008）"
+    "https://mp.weixin.qq.com/s/3AFwMx2x46GkHV9uckaM4A": "同一套坏习惯：QNAP CGI 预认证 RCE 到容器逃逸（CVE-2026-34007∕34008）",
+    "https://mp.weixin.qq.com/s/fQpansPQgG_9YKMVknKaiQ": "【客户端安全】代理绕过127监听CDP+Websocket协议未授权RCE漏洞",
+    "https://mp.weixin.qq.com/s/05KPBW6ey5iLPbJtd6iMKA": "大模型辅助补丁分析工作流：拆解路由器高危漏洞链"
 }
