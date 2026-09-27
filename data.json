@@ -22550,5 +22550,6 @@
     "https://mp.weixin.qq.com/s/CS57XQOTfIm840aeoW8_OQ": "Sudo高危漏洞曝光，本地用户可绕过提权时间限制",
     "https://mp.weixin.qq.com/s/H3Z33zjQ6cFwzXtgzesDxw": "h0day.com 全球安全动态日报上新",
     "https://mp.weixin.qq.com/s/czAYiTvUC3-stooDhNWzlg": "(9.9分) CVE-2026-100740：D-Link路由器越界写入可远程打崩",
-    "https://mp.weixin.qq.com/s/6d2_VM44LZVmDwLus-7mGA": "(9.6分) CVE-2026-100715：Froxlor 面板符号链接任意文件删除"
+    "https://mp.weixin.qq.com/s/6d2_VM44LZVmDwLus-7mGA": "(9.6分) CVE-2026-100715：Froxlor 面板符号链接任意文件删除",
+    "https://mp.weixin.qq.com/s/O7Acs4jOm-eQNzPtwHBptg": "黑客禁用 EPP 并在受感染的 Windows 域中部署 Sliver 漏洞利用程序"
 }
