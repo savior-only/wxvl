@@ -22502,5 +22502,19 @@
     "https://mp.weixin.qq.com/s/SCqLj0rWgjGvclRa5Gh25Q": "数智拓远 善治久安 | 第十六届网络安全漏洞分析与风险评估大会在重庆举办",
     "https://mp.weixin.qq.com/s/3AFwMx2x46GkHV9uckaM4A": "同一套坏习惯：QNAP CGI 预认证 RCE 到容器逃逸（CVE-2026-34007∕34008）",
     "https://mp.weixin.qq.com/s/fQpansPQgG_9YKMVknKaiQ": "【客户端安全】代理绕过127监听CDP+Websocket协议未授权RCE漏洞",
-    "https://mp.weixin.qq.com/s/05KPBW6ey5iLPbJtd6iMKA": "大模型辅助补丁分析工作流：拆解路由器高危漏洞链"
+    "https://mp.weixin.qq.com/s/05KPBW6ey5iLPbJtd6iMKA": "大模型辅助补丁分析工作流：拆解路由器高危漏洞链",
+    "https://mp.weixin.qq.com/s/akNdVjzkDP24Te4k7lgWKw": "开放图谱（OG）缓存对象未授权刷新与回溯性内容投毒漏洞",
+    "https://mp.weixin.qq.com/s/3tHp2Tb9taLgzWcp6b8mEA": "漏洞扫描领域的天花板：一款让安全测试效率提升百倍的全能工具",
+    "https://mp.weixin.qq.com/s/-qvR7k5QQUmpEnkCUu8p2w": "【热点安全风险】9月25日｜GitLab 修复两枚 9.9 分严重漏洞，已认证用户可在服务器上执行任意代码（CVE-2026-93577∕89078）",
+    "https://mp.weixin.qq.com/s/Ql2-U1CZpnjuw7mCWZvp8Q": "OpenAI代理在获取公共数据的同时探测网站漏洞",
+    "https://mp.weixin.qq.com/s/B-4mIbJaLD43to-YC5K_zA": "WordPress CVE-2026-87902 披露数小时即遭在野利用",
+    "https://mp.weixin.qq.com/s/X3L6b9063Zl7SoQcpqS_Uw": "CVE-2026-88592：kkFileView 跨域文件代理绕TrustHostFilter 全解析",
+    "https://mp.weixin.qq.com/s/MrDCEubeLPfOuuUGryDF9g": "没有漏洞，照样入侵：一个电话撬开医疗数据防线",
+    "https://mp.weixin.qq.com/s/BYZ2iH9KbZIUonFj-OaTgw": "内网渗透终极利器！一键自动化漏洞挖掘，百万安全从业者都在用的扫描神器",
+    "https://mp.weixin.qq.com/s/XnQiwcBJ5vxSJQUtuirziQ": "Linux 内核 14 年老漏洞可提权 root、逃出容器",
+    "https://mp.weixin.qq.com/s/FCYcWf1S4uc9oQrzaRcqog": "校园中危漏洞：水平越权风险警示",
+    "https://mp.weixin.qq.com/s/juoY0GoufUL25Bg0l-2MtQ": "同样的洞，有人拿高危有人拿中危：漏洞定级到底在争什么",
+    "https://mp.weixin.qq.com/s/yL2ySIE1mggItx1JnT7kgA": "TACACS+预认证远程代码执行漏洞攻击链",
+    "https://mp.weixin.qq.com/s/Yu3WP7UQCGPcvhaNZChpYw": "CVE-2025-34291深度解析：打开一个网页就丢了整个AI平台，MuddyWater APT的零交互攻击链",
+    "https://mp.weixin.qq.com/s/pupvMbksrpKnf80Q6M9LhQ": "《佳节不辍寻漏洞，望月亦守安全线》"
 }
