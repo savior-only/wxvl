@@ -22776,5 +22776,9 @@
     "https://mp.weixin.qq.com/s/UZuKKCKTNO_grcY0e_BbQg": "如何通过AI高效复现传统漏洞？",
     "https://mp.weixin.qq.com/s/UwlH9iERZ0qDj0KKSRe5NQ": "Acer System Monitor提权（CVE-2026-50610）：从标准用户到SYSTEM，厂商控制中心软件成攻击入口",
     "https://mp.weixin.qq.com/s/d2BIzxlt2_mLU9i17gJkhw": "libheif 严重漏洞可能允许攻击者通过 WordPress 图片上传远程执行代码",
-    "https://mp.weixin.qq.com/s/pqwan71LXdS0AQ1RpzwzOA": "CVE-2026-14378 DevKit Pro 未认证管理员接管"
+    "https://mp.weixin.qq.com/s/pqwan71LXdS0AQ1RpzwzOA": "CVE-2026-14378 DevKit Pro 未认证管理员接管",
+    "https://mp.weixin.qq.com/s/8_EviLz3LO3L7lV2PMC4AA": "前端代码资产采集、网站嗅探、备案查询、指纹扫描、泄露扫描、漏洞审计、浏览器辅助与 浏览器扩展工具 ——玄镜 AegisScope",
+    "https://mp.weixin.qq.com/s/yZQGMefXb8Q6aMQbHRP-ww": "漏洞预警|知名项目管理软件Atlassian Jira曝 CVE-2026-21589 未授权任意文件读取漏洞，CVSS:9.3 大家抓紧修复",
+    "https://mp.weixin.qq.com/s/4b66YO67FskYK6BGKbzwFA": "史诗级安全军火库！百度OpenRASP漏洞测试用例库让Web安全检测能力产生质的飞跃",
+    "https://mp.weixin.qq.com/s/IsTaal0y9x50hyd3FUVkvA": "SDC2026议题预告 | 从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术"
 }
