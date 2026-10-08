@@ -22837,5 +22837,9 @@
     "https://mp.weixin.qq.com/s/8pnPpLDJ6Qbfi-hD7Uao_g": "工具分享 | 一款图形化 JWT 漏洞利用工具",
     "https://mp.weixin.qq.com/s/_2LrI-B2W39FSMPPlFXKmA": "CVE-2026-21589 Atlassian Jira 未认证文件读取：双冒号如何越过插件资源边界",
     "https://mp.weixin.qq.com/s/tGF5HB7pgAP_li9JmJ026Q": "Apache Struts披露多个安全漏洞，可导致远程代码执行",
-    "https://mp.weixin.qq.com/s/xrYVYfy9fbYKeyAf96YFhg": "RMI反序列化：你必须知道的3个攻击面（附完整复现）"
+    "https://mp.weixin.qq.com/s/xrYVYfy9fbYKeyAf96YFhg": "RMI反序列化：你必须知道的3个攻击面（附完整复现）",
+    "https://mp.weixin.qq.com/s/NtBIx7qfxUazwAV_TD1hhA": "赛博安全狗：Vault ACL策略评估漏洞可能绕过拒绝访问限制 (10.08)",
+    "https://mp.weixin.qq.com/s/dN43midSAeaZtRLO9hWQtg": "【高危漏洞预警】Atlassian Data Center未认证任意文件读取漏洞CVE-2026-21589",
+    "https://mp.weixin.qq.com/s/NsEvJLds12dR901y03bAVg": "红帽 OpenShift 漏洞允许攻击者绕过 PGP 检查并推送恶意版本",
+    "https://mp.weixin.qq.com/s/LzMd-dkN9hPacFDZujpbKw": "大模型是怎么被攻破的？七类主流攻击手法与本地复现"
 }
