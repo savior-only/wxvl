@@ -23556,5 +23556,7 @@
     "https://mp.weixin.qq.com/s/w-3adi7eafh43ef5O3KLJw": "Totolink 路由器栈溢出 RCE：一个参数写穿栈（CVE-2026-42020）",
     "https://mp.weixin.qq.com/s/09Y1WId0D-eG6he81aAwDw": "一夜拔网线：php2shell 双 RCE 全分析",
     "https://mp.weixin.qq.com/s/dGj9YbkTvbinSim761_hrA": "【已复现验证】PHP远程代码执行漏洞（CVE-2026-109618∕CVE-2026-109619）",
-    "https://mp.weixin.qq.com/s/gi--EgXgSVhNPt7p6ZnBqQ": "最近AI挖漏洞爆火，一篇带你了解用Work Buddy挖漏洞的全流程！"
+    "https://mp.weixin.qq.com/s/gi--EgXgSVhNPt7p6ZnBqQ": "最近AI挖漏洞爆火，一篇带你了解用Work Buddy挖漏洞的全流程！",
+    "https://mp.weixin.qq.com/s/0gdB5mXksCDILkyiEiO6IQ": "PHP2Shell：两个高危漏洞拉响全球安全“警报”",
+    "https://mp.weixin.qq.com/s/QSRX4PUyoYlEgSziSxt21w": "工具推荐 | 470+漏洞一键检测！专为国内主流OA打造的漏洞检测利器"
 }
